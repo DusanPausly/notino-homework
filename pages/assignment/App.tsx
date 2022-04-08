@@ -1,5 +1,4 @@
 import React from "react";
-
 import Todo from "./Todo";
 
 // rework this into regular api call, feel free to use any open api

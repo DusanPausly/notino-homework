@@ -1,6 +1,5 @@
 import { TodoItem } from "../types/todo";
 import { useRouter } from "next/router";
-import Link from "next/link";
 import styled from "styled-components";
 
 interface Props {
